@@ -1,0 +1,22 @@
+ 
+Pinging 199.223.232.0 with 32 bytes of data:
+Reply from 199.223.232.0: bytes=32 time=210ms TTL=57
+Reply from 199.223.232.0: bytes=32 time=209ms TTL=57
+Reply from 199.223.232.0: bytes=32 time=209ms TTL=57
+Reply from 199.223.232.0: bytes=32 time=209ms TTL=57
+
+Ping statistics for 199.223.232.0:
+    Packets: Sent = 4, Received = 4, Lost = 0 (00ss),
+Approximate round trip times in milli-seconds:
+    Minimum = 209ms, Maximum = 210ms, Average = 209ms 
+ 
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=2ms TTL=115
+Reply from 8.8.8.8: bytes=32 time=3ms TTL=115
+Reply from 8.8.8.8: bytes=32 time=3ms TTL=115
+Reply from 8.8.8.8: bytes=32 time=2ms TTL=115
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (00ss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 3ms, Average = 2ms 
