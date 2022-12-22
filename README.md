@@ -1,1 +1,5 @@
 # Network
+
+- Bash
+- Powershell
+- Python
